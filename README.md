@@ -1,2 +1,3 @@
 # Qt
-C++/Qt Blog Examples
+
+Qt examples
